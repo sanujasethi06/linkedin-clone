@@ -1,15 +1,21 @@
 
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+
 import './App.css'
+import Login from './components/Login'
 
 function App() {
   
 
   return (
     <>
-      <h2>Lets make intranet solution</h2>
-        
+      <div className='App'>
+        <BrowserRouter>
+          <Routes>
+            <Route exact path='/' element={<Login/>}/>
+          </Routes>
+        </BrowserRouter>
+      </div>
     </>
   )
 }
