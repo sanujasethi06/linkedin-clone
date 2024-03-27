@@ -9,7 +9,7 @@ const Login = (props) => {
             <Container>
                 <Nav>
                     <a href="">
-                        <img src={Logo} alt="" width={130} height={50} />
+                        <img src={Logo} alt="" width={140} height={50} />
                     </a>
                      <div>
                     <Join>Join now</Join>
