@@ -2,13 +2,15 @@ import styled from "styled-components";
  import React from 'react'
 import Header from "./Header";
 import Leftside from "./Leftside";
+import Rightside from "./Rightside";
  
 const Home = () => {
     return (
  <Container>
      <Header/>
       <Layout>
-        <Leftside />
+                <Leftside />
+                <Rightside/>
       </Layout>
     </Container>
   );
