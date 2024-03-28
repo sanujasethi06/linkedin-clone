@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 100 100"
+   x="0px"
+   y="0px"
+   version="1.1"
+   id="svg504"
+   sodipodi:docname="widget-icon.svg"
+   width="16"
+   height="16"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs508" />
+  <sodipodi:namedview
+     id="namedview506"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="5.2133333"
+     inkscape:cx="-3.7404092"
+     inkscape:cy="65.984655"
+     inkscape:window-width="1920"
+     inkscape:window-height="949"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg504" />
+  <g
+     id="g593"
+     transform="matrix(2.8531003,0,0,2.8531003,-81.89147,10.751973)">
+    <g
+       data-name="Layer 2"
+       id="g498"
+       transform="translate(32.009272,-1.0534886)">
+      <g
+         id="g496">
+        <path
+           data-name="User plus"
+           d="m 6,5 a 5,5 0 1 1 5,5 5,5 0 0 1 -5,-5 z m 12.31,9.8 A 11,11 0 0 0 0,23 v 1 H 13.06 A 8.26,8.26 0 0 1 13,23 9,9 0 0 1 18.31,14.8 Z M 29,23 a 7,7 0 1 1 -7,-7 7,7 0 0 1 7,7 z m -3,-1 h -3 v -3 h -2 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 z"
+           id="path494" />
+      </g>
+    </g>
+  </g>
+</svg>
