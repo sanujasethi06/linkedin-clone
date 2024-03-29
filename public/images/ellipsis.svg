@@ -2,15 +2,15 @@
 <svg
    role="none"
    aria-hidden="true"
-   width="16"
-   height="16"
+   width="24"
+   height="24"
    viewBox="0 0 24 24"
    data-supported-dps="24x24"
    data-test-icon="image-medium"
    type="image"
    version="1.1"
    id="svg4"
-   sodipodi:docname="events.svg"
+   sodipodi:docname="ellipsis.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,15 +27,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="16.291667"
-     inkscape:cx="13.411765"
-     inkscape:cy="12.337596"
+     inkscape:zoom="4.0729167"
+     inkscape:cx="13.381074"
+     inkscape:cy="43.4578"
      inkscape:window-width="1920"
      inkscape:window-height="949"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g7509" />
+     inkscape:current-layer="g14264" />
   <use
      href="#image-medium"
      width="24"
@@ -525,95 +525,29 @@
                  style="fill-rule:nonzero;stroke:#000000;stroke-width:0.990963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  transform="translate(-12.638144,-3.8393574)">
                 <g
-                   id="g7538"
-                   transform="matrix(18.351175,0,0,18.351175,-863.43196,-1010.1254)">
+                   id="g14264"
+                   transform="matrix(18.351175,0,0,18.351175,-502.12177,-1208.8673)">
                   <g
-                     id="g9121"
-                     transform="matrix(0.16750199,0,0,0.16750199,51.187036,57.54964)">
+                     id="g14431"
+                     transform="matrix(0.29556105,0,0,0.29556105,27.749771,66.022787)">
                     <g
-                       id="g7511">
+                       id="g14245">
                       <g
-                         id="g7509">
-                        <g
-                           id="g11706"
-                           transform="translate(0,1.8207975)"
-                           style="fill:#c37d16;fill-opacity:1;stroke:#c37d16;stroke-opacity:1">
-                          <path
-                             d="M 30.157,2 C 25.868,2 22.379,5.489 22.379,9.778 V 12.24 H 10.651 C 6.984,12.24 4,15.146 4,18.717 V 33.781 122 c 0,2.206 1.794,4 4,4 h 112 c 2.206,0 4,-1.794 4,-4 V 33.781 18.717 c 0,-3.571 -2.984,-6.477 -6.651,-6.477 H 102.972 V 9.778 C 102.972,5.489 99.483,2 95.194,2 90.905,2 87.416,5.489 87.416,9.778 V 12.24 H 37.935 V 9.778 C 37.935,5.489 34.445,2 30.157,2 Z M 26.379,9.778 C 26.379,7.695 28.074,6 30.157,6 c 2.083,0 3.778,1.695 3.778,3.778 v 8.992 c 0,2.083 -1.695,3.777 -3.778,3.777 -2.083,0 -3.778,-1.694 -3.778,-3.777 V 9.778 Z M 8,122 V 35.781 H 120 L 120.002,122 Z M 91.416,9.778 C 91.416,7.695 93.111,6 95.194,6 c 2.083,0 3.778,1.695 3.778,3.778 v 8.992 c 0,2.083 -1.695,3.777 -3.778,3.777 -2.083,0 -3.778,-1.694 -3.778,-3.777 z m -4,6.462 v 2.53 c 0,4.289 3.489,7.777 7.778,7.777 4.289,0 7.778,-3.489 7.778,-7.777 v -2.53 h 14.377 c 1.462,0 2.651,1.111 2.651,2.477 V 31.781 H 8 V 18.717 C 8,17.351 9.189,16.24 10.651,16.24 h 11.728 v 2.53 c 0,4.289 3.489,7.777 7.778,7.777 4.289,0 7.778,-3.489 7.778,-7.777 v -2.53 z"
-                             id="path7487"
-                             style="fill:#c37d16;fill-opacity:1;stroke:#c37d16;stroke-opacity:1" />
-                          <g
-                             id="g10071"
-                             transform="translate(-0.91096575)"
-                             style="fill:#c37d16;fill-opacity:1;stroke:#c37d16;stroke-opacity:1">
-                            <path
-                               d="m 72.341399,95.259705 h -16 c -1.104,0 -2,0.896 -2,2 v 16.000005 c 0,1.104 0.896,2 2,2 h 16 c 1.104,0 2,-0.896 2,-2 V 97.259705 c 0,-1.105 -0.896,-2 -2,-2 z m -2,4 z"
-                               id="path7493"
-                               style="fill:#c37d16;fill-opacity:1;stroke:#c37d16;stroke-opacity:1"
-                               sodipodi:nodetypes="sssssssssccccc" />
-                            <path
-                               d="m 36.911192,94.707836 h -16 c -1.104,0 -2,0.895997 -2,1.999997 v 16.000007 c 0,1.104 0.896,2 2,2 h 16 c 1.104,0 2,-0.896 2,-2 V 96.707833 c 0,-1.105 -0.896,-1.999997 -2,-1.999997 z m -2,3.999997 z"
-                               id="path7493-5"
-                               style="display:inline;fill:#c37d16;fill-rule:nonzero;stroke:#c37d16;stroke-width:0.990963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-                               sodipodi:nodetypes="sssssssssccccc" />
-                            <path
-                               d="M 107.58447,95.258226 H 91.584473 c -1.104,0 -2,0.896 -2,2 v 16.000004 c 0,1.104 0.896,2 2,2 h 15.999997 c 1.104,0 2,-0.896 2,-2 V 97.258226 c 0,-1.105 -0.896,-2 -2,-2 z m -2,4 z"
-                               id="path7493-3"
-                               style="display:inline;fill:#c37d16;fill-rule:nonzero;stroke:#c37d16;stroke-width:0.990963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-                               sodipodi:nodetypes="sssssssssccccc" />
-                          </g>
-                          <g
-                             id="g10071-2"
-                             style="display:inline;fill-rule:nonzero;stroke:#c37d16;stroke-width:0.990963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#c37d16;fill-opacity:1"
-                             transform="translate(-1.3288347,-30.176814)">
-                            <path
-                               d="m 72.341399,95.259705 h -16 c -1.104,0 -2,0.896 -2,2 v 16.000005 c 0,1.104 0.896,2 2,2 h 16 c 1.104,0 2,-0.896 2,-2 V 97.259705 c 0,-1.105 -0.896,-2 -2,-2 z m -2,4 z"
-                               id="path7493-9"
-                               style="fill:#c37d16;fill-opacity:1;stroke:#c37d16;stroke-opacity:1"
-                               sodipodi:nodetypes="sssssssssccccc" />
-                            <path
-                               d="m 36.911192,94.707836 h -16 c -1.104,0 -2,0.895997 -2,1.999997 v 16.000007 c 0,1.104 0.896,2 2,2 h 16 c 1.104,0 2,-0.896 2,-2 V 96.707833 c 0,-1.105 -0.896,-1.999997 -2,-1.999997 z m -2,3.999997 z"
-                               id="path7493-5-1"
-                               style="display:inline;fill:#c37d16;fill-rule:nonzero;stroke:#c37d16;stroke-width:0.990963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-                               sodipodi:nodetypes="sssssssssccccc" />
-                            <path
-                               d="M 107.58447,95.258226 H 91.584473 c -1.104,0 -2,0.896 -2,2 v 16.000004 c 0,1.104 0.896,2 2,2 h 15.999997 c 1.104,0 2,-0.896 2,-2 V 97.258226 c 0,-1.105 -0.896,-2 -2,-2 z m -2,4 z"
-                               id="path7493-3-2"
-                               style="display:inline;fill:#c37d16;fill-rule:nonzero;stroke:#c37d16;stroke-width:0.990963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-                               sodipodi:nodetypes="sssssssssccccc" />
-                          </g>
-                          <g
-                             id="g10071-7"
-                             style="display:inline;fill-rule:nonzero;stroke:#c37d16;stroke-width:0.990963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#c37d16;fill-opacity:1"
-                             transform="translate(-1.21547,-56.453114)">
-                            <path
-                               d="m 72.341399,95.259705 h -16 c -1.104,0 -2,0.896 -2,2 v 16.000005 c 0,1.104 0.896,2 2,2 h 16 c 1.104,0 2,-0.896 2,-2 V 97.259705 c 0,-1.105 -0.896,-2 -2,-2 z m -2,4 z"
-                               id="path7493-0"
-                               style="fill:#c37d16;fill-opacity:1;stroke:#c37d16;stroke-opacity:1"
-                               sodipodi:nodetypes="sssssssssccccc" />
-                            <path
-                               d="m 36.911192,94.707836 h -16 c -1.104,0 -2,0.895997 -2,1.999997 v 16.000007 c 0,1.104 0.896,2 2,2 h 16 c 1.104,0 2,-0.896 2,-2 V 96.707833 c 0,-1.105 -0.896,-1.999997 -2,-1.999997 z m -2,3.999997 z"
-                               id="path7493-5-9"
-                               style="display:inline;fill:#c37d16;fill-rule:nonzero;stroke:#c37d16;stroke-width:0.990963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-                               sodipodi:nodetypes="sssssssssccccc" />
-                            <path
-                               d="M 107.58447,95.258226 H 91.584473 c -1.104,0 -2,0.896 -2,2 v 16.000004 c 0,1.104 0.896,2 2,2 h 15.999997 c 1.104,0 2,-0.896 2,-2 V 97.258226 c 0,-1.105 -0.896,-2 -2,-2 z m -2,4 z"
-                               id="path7493-3-3"
-                               style="display:inline;fill:#c37d16;fill-rule:nonzero;stroke:#c37d16;stroke-width:0.990963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-                               sodipodi:nodetypes="sssssssssccccc" />
-                          </g>
-                        </g>
+                         id="g14243">
+                        <path
+                           d="m 34.3,48 c 0,3.2 -2.6,5.8 -5.8,5.8 -3.2,0 -5.8,-2.6 -5.8,-5.8 0,-3.2 2.6,-5.8 5.8,-5.8 3.2,0 5.8,2.6 5.8,5.8 z"
+                           id="path14237" />
+                        <path
+                           d="m 53.8,48 c 0,3.2 -2.6,5.8 -5.8,5.8 -3.2,0 -5.8,-2.6 -5.8,-5.8 0,-3.2 2.6,-5.8 5.8,-5.8 3.2,0 5.8,2.6 5.8,5.8 z"
+                           id="path14239" />
+                        <circle
+                           cx="67.5"
+                           cy="48"
+                           r="5.8000002"
+                           id="circle14241" />
                       </g>
                     </g>
                   </g>
-                  <text
-                     x="0"
-                     y="148"
-                     fill="#000000"
-                     font-size="5px"
-                     font-weight="bold"
-                     font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
-                     id="text7515" />
                 </g>
               </g>
             </g>
